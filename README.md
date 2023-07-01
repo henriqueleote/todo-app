@@ -7,7 +7,7 @@ A very simple JS ToDo application using HTML/CSS.
 Download the project and run the index.html file in any browser.
 
 ## Usage
-Try it [here]('https://tangerine-babka-fe701e.netlify.app/').
+Try it [here]('https://tangerine-babka-fe701e.netlify.app')
 
 
 ## Autors
